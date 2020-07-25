@@ -20153,5 +20153,8 @@
   "bugs": {
     "url": "https://github.com/neuicons/icons/issues"
   },
-  "homepage": "https://github.com/neuicons/icons#readme"
+  "homepage": "https://github.com/neuicons/icons#readme",
+  "dependencies": {
+    "np": "^6.3.2"
+  }
 }
