@@ -20137,5 +20137,22 @@
     "showGrid": false,
     "showLiga": false
   },
-  "IcoMoonType": "icon-set"
+  "IcoMoonType": "icon-set",
+  "name": "yes",
+  "description": "Neu is a crisp cohesive growing icon set library that provides wide range categories. Based on 24 pixel-perfect grid material, it will match with any of your app, website, design project. Created with a simple basic object, combine it with other shapes, and finish it with passion. You can use Neu icons for a personal and commercial purpose for free using CCBY 4.0 international attribution.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuicons/icons.git"
+  },
+  "author": "Royyan Wijaya",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/neuicons/icons/issues"
+  },
+  "homepage": "https://github.com/neuicons/icons#readme"
 }
