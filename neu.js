@@ -13,7 +13,7 @@
 		el.innerHTML = '<span style="font-family: \'neuicons\'">' + entity + '</span>' + html;
   }
   <script src="neu.js"></script>
-  const neu = require('feather-icons')
+  const neu = require('neuicons')
 
 	var icons = {
 		'neu-ac': '&#xec61;',
