@@ -28,9 +28,9 @@ or try this template to take a look.
   </body>
 
 </html>
->If you want to use it with CDN, you can skip this installation.
 ```
 ### 2. Node
+>If you want to use it with CDN, you can skip this installation.
 ```shell
 npm install neuicons --save
 ```
