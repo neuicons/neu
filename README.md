@@ -46,4 +46,4 @@ You can see the complete `code` list at [neuicons.com](https://neuicons.com).
 Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
 
 ## Credit
-Neu logo was created by [Royyan Wijaya](https://dribbble.com/roywj) and revamped by [Aldo Picaso](https://www.pexels.com/@aldoalz)
+Neu logo is created by [Royyan Wijaya](https://dribbble.com/roywj) and revamped by [Aldo Picaso](https://www.pexels.com/@aldoalz)
