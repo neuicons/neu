@@ -1,7 +1,7 @@
 <a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  ![npm](https://img.shields.io/npm/dm/neuicons)  ![npm](https://img.shields.io/npm/v/neuicons)  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
 
 
-# Neu Icons
+# Neu
 Neu is a crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. Created with a simple basic object, combine it with other shapes, and finish it with passion.
 
 ## How to use
@@ -16,7 +16,7 @@ or try this template to take a look.
 
 <html lang="en">
 
-  <title>Neu Icons Test</title>
+  <title>Neu Test</title>
   
   <head>
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">
@@ -40,4 +40,7 @@ npm install neuicons --save
 I will update it soon for the icon list command-name. So, you can use it easily.
 
 ## License
-Neu Icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
+Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
+
+## Credit
+Neu logo was created by [Royyan Wijaya](https://dribbble.com/roywj) and revamped by [Aldo Picaso](https://www.pexels.com/@aldoalz)
