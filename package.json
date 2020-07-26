@@ -20139,8 +20139,8 @@
   },
   "name": "neuicons",
   "description": "Neu is a crisp cohesive growing icon set library that provides wide range categories. Based on 24 pixel-perfect grid material, it will match with any of your app, website, design project. Created with a simple basic object, combine it with other shapes, and finish it with passion. You can use Neu icons for a personal and commercial purpose for free using CCBY 4.0 international attribution.",
-  "version": "1.1.1",
-  "main": "neu.js",
+  "version": "1.1.2",
+  "main": "neu.css",
   "scripts": {
     "test": "echo \"No test specified\""
   },
