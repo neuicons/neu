@@ -9,6 +9,25 @@ Call the css using this code on your html file.
 ```css
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">
 ```
+or try this template
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <title>Neu Icons Test</title>
+  
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">
+  </head>
+
+  <body>
+    <!-- example icon -->
+    <i class="neu-corgi" style="font-size: 24px;"></i> 
+  </body>
+
+</html>
+```
 
 
 ## License
