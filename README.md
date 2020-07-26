@@ -8,7 +8,7 @@ Neu is a crisp cohesive growing icon set library that provides wide range catego
 ### 1. Using CDN
 Call the css using this code on your html file by pasting this code.
 ```css
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/neu.css">
 ```
 or try this template to take a look.
 ```html
@@ -19,7 +19,7 @@ or try this template to take a look.
   <title>Neu Test</title>
   
   <head>
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/neu.css">
   </head>
 
   <body>
