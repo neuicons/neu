@@ -6,7 +6,8 @@ Neu is a crisp cohesive growing icon set library that provides wide range catego
 
 ## How to use
 Call the css using this code on your html file.
-```<link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">```
+```<link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons">
+```
 
 
 ## License
