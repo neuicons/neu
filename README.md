@@ -3,6 +3,8 @@
 
 # Neu
 Neu is a crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. Created with a simple basic object, combine it with other shapes, and finish it with passion.
+>1035 in total and counting.
+Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com)
 
 ## How to use
 ### 1. Using CDN
@@ -37,7 +39,8 @@ npm install neuicons --save
 *I have a basic understanding about this method actually. I prefer you to use the CDN one instead. I will give clear update once I understand it.
 
 ## Icons
-I will update it soon for the icon list command-name. So, you can use it easily.
+You can see the complete `code` list at [neuicons.com](https://neuicons.com).
+>At this moment, the complete list is on progress. Updated frequently.
 
 ## License
 Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
