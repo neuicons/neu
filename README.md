@@ -80,3 +80,5 @@ Neu icons is available under the [MIT License](https://github.com/neuicons/icons
 
 ## Credit
 Neu logo is created by [Royyan Wijaya](https://dribbble.com/roywj) and revamped by [Aldo Picaso](https://www.pexels.com/@aldoalz)
+
+Shout out to people who helped me about this project [Raizal I.N. Pregnanta](https://github.com/raizal) [Victor Manu](https://github.com/itomanu) [Yahya Fadhlulloh Al-Fatih](https://github.com/k1m0ch1)
