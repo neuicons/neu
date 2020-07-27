@@ -1,4 +1,4 @@
-<a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  ![npm](https://img.shields.io/npm/dm/neuicons)  ![npm](https://img.shields.io/npm/v/neuicons)  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
+<a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  <a href="https://github.com/neuicons/icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
 
 
 # Neu
