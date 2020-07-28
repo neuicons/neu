@@ -790,7 +790,7 @@
 .neu-music-beat:before { content: '\eae1'; } /* '' */
 .neu-cassette:before { content: '\eae2'; } /* '' */
 .neu-open-disc:before { content: '\eae3'; } /* '' */
-.neu-earphone,:before { content: '\eae4'; } /* '' */
+.neu-earphone:before { content: '\eae4'; } /* '' */
 .neu-equalizer:before { content: '\eae5'; } /* '' */
 .neu-instrument-playlist:before { content: '\eae6'; } /* '' */
 .neu-karaoke:before { content: '\eae7'; } /* '' */
@@ -853,7 +853,7 @@
 .neu-wheat:before { content: '\eb20'; } /* '' */
 .neu-wood:before { content: '\eb21'; } /* '' */
 .neu-alien:before { content: '\eb22'; } /* '' */
-.neu-asteroid,:before { content: '\eb23'; } /* '' */
+.neu-asteroid:before { content: '\eb23'; } /* '' */
 .neu-astronaut:before { content: '\eb24'; } /* '' */
 .neu-blackhole:before { content: '\eb25'; } /* '' */
 .neu-box:before { content: '\eb26'; } /* '' */
@@ -916,7 +916,7 @@
 .neu-smartphone-camera:before { content: '\eb5f'; } /* '' */
 .neu-mobile:before { content: '\eb60'; } /* '' */
 .neu-smart-lcd:before { content: '\eb61'; } /* '' */
-.neu-monitor,:before { content: '\eb62'; } /* '' */
+.neu-monitor:before { content: '\eb62'; } /* '' */
 .neu-smartphone-2:before { content: '\eb63'; } /* '' */
 .neu-mobile-2:before { content: '\eb64'; } /* '' */
 .neu-monitor-2:before { content: '\eb65'; } /* '' */
