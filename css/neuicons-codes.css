@@ -1,9 +1,9 @@
 
-.neu-blind-eyes:before { content: '\e800'; } /* '' */
-.neu-disability:before { content: '\e801'; } /* '' */
-.neu-enter-people:before { content: '\e802'; } /* '' */
-.neu-eye-plus:before { content: '\e803'; } /* '' */
-.neu-couple:before { content: '\e804'; } /* '' */
+.neu-blind-eyes:before { content: '\e800'; }
+.neu-disability:before { content: '\e801'; } 
+.neu-enter-people:before { content: '\e802'; }
+.neu-eye-plus:before { content: '\e803'; }
+.neu-couple:before { content: '\e804'; }
 .neu-male:before { content: '\e805'; } /* '' */
 .neu-people-gesture:before { content: '\e806'; } /* '' */
 .neu-male-gesture:before { content: '\e807'; } /* '' */
@@ -23,7 +23,7 @@
 .neu-crab:before { content: '\e815'; } /* '' */
 .neu-corgi:before { content: '\e816'; } /* '' */
 .neu-bird:before { content: '\e817'; } /* '' */
-.neu-fish-bone:before { content: '\e818'; } /* '' */
+.neu-fish-bone:before { content: '\e818'; } 
 .neu-fish:before { content: '\e819'; } /* '' */
 .neu-monkey-2:before { content: '\e81a'; } /* '' */
 .neu-monkey-3:before { content: '\e81b'; } /* '' */

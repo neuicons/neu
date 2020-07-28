@@ -55,11 +55,11 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.neu-blind-eyes:before { content: '\e800'; } /* '' */
-.neu-disability:before { content: '\e801'; } /* '' */
-.neu-enter-people:before { content: '\e802'; } /* '' */
-.neu-eye-plus:before { content: '\e803'; } /* '' */
-.neu-couple:before { content: '\e804'; } /* '' */
+.neu-blind-eyes:before { content: '\e800'; } 
+.neu-disability:before { content: '\e801'; } 
+.neu-enter-people:before { content: '\e802'; } 
+.neu-eye-plus:before { content: '\e803'; } 
+.neu-couple:before { content: '\e804'; }
 .neu-male:before { content: '\e805'; } /* '' */
 .neu-people-gesture:before { content: '\e806'; } /* '' */
 .neu-male-gesture:before { content: '\e807'; } /* '' */
@@ -70,7 +70,7 @@
 .neu-escalator-up-1:before { content: '\e80c'; } /* '' */
 .neu-female:before { content: '\e80d'; } /* '' */
 .neu-female-gesture:before { content: '\e80e'; } /* '' */
-.neu-bat,-flying,-corona-virus:before { content: '\e80f'; } /* '' */
+.neu-bat:before { content: '\e80f'; } /* '' */
 .neu-bear:before { content: '\e810'; } /* '' */
 .neu-bone:before { content: '\e811'; } /* '' */
 .neu-cat:before { content: '\e812'; } /* '' */

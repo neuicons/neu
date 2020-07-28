@@ -52,11 +52,11 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
-.neu-blind-eyes:before { content: '\e800'; } /* '' */
-.neu-disability:before { content: '\e801'; } /* '' */
-.neu-enter-people:before { content: '\e802'; } /* '' */
-.neu-eye-plus:before { content: '\e803'; } /* '' */
-.neu-couple:before { content: '\e804'; } /* '' */
+.neu-blind-eyes:before { content: '\e800'; } 
+.neu-disability:before { content: '\e801'; } 
+.neu-enter-people:before { content: '\e802'; } 
+.neu-eye-plus:before { content: '\e803'; } 
+.neu-couple:before { content: '\e804'; }  
 .neu-male:before { content: '\e805'; } /* '' */
 .neu-people-gesture:before { content: '\e806'; } /* '' */
 .neu-male-gesture:before { content: '\e807'; } /* '' */
