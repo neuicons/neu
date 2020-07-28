@@ -13,9 +13,13 @@ Call the css on your `html` file using this address.
 ```link
 https://unpkg.com/neuicons/css/neu.css
 ```
-Calling icons `<i class="neu-#icon-name#"></i>` *remove the `#` symbol and replace the `icon name` with the actual icon name command.
+Calling icons
+```html
+<i class="neu-activity"></i>
+```
+You can change the `activity` with other icons name. See icons section to get to know the detail about all of the icons credential.
 
-Or try this template to take a look.
+Or try this template below.
 ```html
 <!DOCTYPE html>
 

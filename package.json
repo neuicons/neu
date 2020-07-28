@@ -1,0 +1,22 @@
+{
+  "name": "neuicons",
+  "version": "1.2.4",
+  "description": "Neu is a crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. Created with a simple basic object, combine it with other shapes, and finish it with passion.",
+  "main": "css/neuicons.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neuicons/css-icons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "Royyan Wijaya <royyanwijaya@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neuicons/css-icons/issues"
+  },
+  "homepage": "https://github.com/neuicons/css-icons#readme"
+}
