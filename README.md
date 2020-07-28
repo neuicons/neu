@@ -11,7 +11,7 @@ Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@l
 ### Using CDN
 Call the css on your `html` file using this address.
 ```link
-https://unpkg.com/neuicons/css/neu.css
+https://unpkg.com/neuicons/css/neuicons.css
 ```
 Calling icons
 ```html
@@ -28,7 +28,7 @@ Or try this template below.
   <title>Neu Test</title>
   
   <head>
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/css/neu.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/css/neuicons.css">
   </head>
 
   <body>
