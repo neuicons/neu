@@ -8,10 +8,10 @@ Neu is a crisp cohesive growing icon set library that provides wide range catego
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com)
 
 ## How to use
-### 1. Using CDN
-Call the css using this code on your html file by pasting this code.
-```css
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/neu.css">
+### Using CDN
+Call the css on your `html` file using this address.
+```link
+https://unpkg.com/neuicons/css/neu.css
 ```
 Calling icons `<i class="neu-#icon-name#"></i>` *remove the `#` symbol and replace the `icon name` with the actual icon name command.
 
@@ -24,7 +24,7 @@ Or try this template to take a look.
   <title>Neu Test</title>
   
   <head>
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/neu.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/css/neu.css">
   </head>
 
   <body>
@@ -34,12 +34,6 @@ Or try this template to take a look.
 
 </html>
 ```
-### 2. Node
->If you want to use it with CDN, you can skip this installation.
-```shell
-npm install neuicons --save
-```
-*I have a basic understanding about this method actually. I prefer you to use the CDN one instead. I will give clear update once I understand it.
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
