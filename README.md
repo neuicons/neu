@@ -44,13 +44,13 @@ You can see the complete `code` list at [neuicons.com](https://neuicons.com).
 >At this moment, the complete list is on progress. Updated frequently.
 
 Categories:
-- Accessibility `15 icons` `preview available`
-- Animal `25 icons` `preview available`
-- Arrow `30 icons` `preview available`
-- Building `20 icons` `preview available`
-- Business and Finance `50 icons` *--ongoing preview*
-- Design `50 icons` *--ongoing preview*
-- Development `30 icons` *--ongoing preview*
+- Accessibility `15 icons`
+- Animal `25 icons`
+- Arrow `30 icons`
+- Building `20 icons`
+- Business and Finance `
+- Design `50 icons`
+- Development `30 icons`
 - Ecommerce `25 icons` *--ongoing preview*
 - Emoji `20 icons` *--ongoing preview*
 - Fashion `45 icons` *--ongoing preview*
