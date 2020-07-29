@@ -48,11 +48,11 @@ Categories:
 - Animal `25 icons`
 - Arrow `30 icons`
 - Building `20 icons`
-- Business and Finance `
+- Business and Finance `50 icons`
 - Design `50 icons`
 - Development `30 icons`
-- Ecommerce `25 icons` *--ongoing preview*
-- Emoji `20 icons` *--ongoing preview*
+- Ecommerce `25 icons`
+- Emoji `20 icons` 
 - Fashion `45 icons` *--ongoing preview*
 - File `25 icons` *--ongoing preview*
 - Food `30 icons` *--ongoing preview*
