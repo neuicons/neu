@@ -53,8 +53,8 @@ Categories:
 - Development `30 icons`
 - Ecommerce `25 icons`
 - Emoji `20 icons` 
-- Fashion `45 icons` *--ongoing preview*
-- File `25 icons` *--ongoing preview*
+- Fashion `45 icons`
+- File `25 icons`
 - Food `30 icons` *--ongoing preview*
 - Furniture `25 icons` *--ongoing preview*
 - Game `25 icons` *--ongoing preview*
