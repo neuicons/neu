@@ -57,9 +57,9 @@ Categories:
 - File `25 icons`
 - Food `30 icons`
 - Furniture `25 icons`
-- Game `25 icons` *--ongoing preview*
-- Gesture `20 icons` *--ongoing preview*
-- Holiday `30 icons` *--ongoing preview*
+- Game `25 icons`
+- Gesture `20 icons`
+- Holiday `30 icons`
 - Interface `200 icons` *--ongoing preview*
 - Kitchen `30 icons` *--ongoing preview*
 - Medical `35 icons` *--ongoing preview*
