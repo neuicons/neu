@@ -55,8 +55,8 @@ Categories:
 - Emoji `20 icons` 
 - Fashion `45 icons`
 - File `25 icons`
-- Food `30 icons` *--ongoing preview*
-- Furniture `25 icons` *--ongoing preview*
+- Food `30 icons`
+- Furniture `25 icons`
 - Game `25 icons` *--ongoing preview*
 - Gesture `20 icons` *--ongoing preview*
 - Holiday `30 icons` *--ongoing preview*
