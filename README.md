@@ -60,8 +60,8 @@ Categories:
 - Game `25 icons`
 - Gesture `20 icons`
 - Holiday `30 icons`
-- Interface `200 icons` *--ongoing preview*
-- Kitchen `30 icons` *--ongoing preview*
+- Interface `200 icons`
+- Kitchen `30 icons`
 - Medical `35 icons` *--ongoing preview*
 - Music `45 icons` *--ongoing preview*
 - Nature `25 icons` *--ongoing preview*
