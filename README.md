@@ -1,4 +1,4 @@
-<a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  <a href="https://github.com/neuicons/icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
+<a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
 
 
 # Neu
@@ -62,10 +62,10 @@ Categories:
 - Holiday `30 icons`
 - Interface `200 icons`
 - Kitchen `30 icons`
-- Medical `35 icons` *--ongoing preview*
-- Music `45 icons` *--ongoing preview*
-- Nature `25 icons` *--ongoing preview*
-- Space `25 icons` *--ongoing preview*
+- Medical `35 icons`
+- Music `45 icons`
+- Nature `25 icons`
+- Space `25 icons`
 - Sports `35 icons` *--ongoing preview*
 - Technology `30 icons` *--ongoing preview*
 - Text `35 icons` *--ongoing preview*
