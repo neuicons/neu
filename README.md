@@ -27,9 +27,7 @@ Or try this template below.
 
   <title>Neu Test</title>
   
-  <head>
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/css/neu.css">
-  </head>
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/css/neu.css">
 
   <body>
     <!-- example icon -->
@@ -41,7 +39,6 @@ Or try this template below.
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
->At this moment, the complete list is on progress. Updated frequently.
 
 Categories:
 - Accessibility `15 icons`
@@ -66,12 +63,12 @@ Categories:
 - Music `45 icons`
 - Nature `25 icons`
 - Space `25 icons`
-- Sports `35 icons` *--ongoing preview*
-- Technology `30 icons` *--ongoing preview*
-- Text `35 icons` *--ongoing preview*
-- Transportation `25 icons` *--ongoing preview*
-- Users `35 icons` `*--ongoing preview*
-- Weather `50 icons` *--ongoing preview*
+- Sports `35 icons`
+- Technology `30 icons`
+- Text `35 icons`
+- Transportation `25 icons`
+- Users `35 icons` 
+- Weather `50 icons`
 
 ## License
 Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
