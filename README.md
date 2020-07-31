@@ -2,7 +2,9 @@
 
 
 # Neu
-Neu is a crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. Created with a simple basic object, combine it with other shapes, and finish it with passion.
+Neu is a free crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. 
+
+Created with a simple basic object, combine it with other shapes, and finish it with passion.
 >1035 in total and counting.
 
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com)
