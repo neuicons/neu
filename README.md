@@ -22,7 +22,7 @@ Calling an icon
 ```
 You can change the `activity` with other icons name. See icons section to get to know the detail about all of the icons credential.
 
-Or try this template below.
+HTML doc example.
 ```html
 <!DOCTYPE html>
 
@@ -39,6 +39,7 @@ Or try this template below.
 
 </html>
 ```
+Or playaround with this [codepen](https://codepen.io/pen/?template=eYZmZNB) template.
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
