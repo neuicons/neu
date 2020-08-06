@@ -1,6 +1,6 @@
 <a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
 
-![cover](src/cover/README cover.png)
+![cover](https://github.com/neuicons/css-icons/blob/master/src/cover/README%20cover.png)
 
 # Neu
 Neu is a free crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. 
