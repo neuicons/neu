@@ -1,5 +1,6 @@
 <a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
 
+![cover](src\cover\README cover.png)
 
 # Neu
 Neu is a free crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. 
@@ -7,7 +8,7 @@ Neu is a free crisp cohesive growing icon set library that provides wide range c
 Created with a simple basic object, combine it with other shapes, and finish it with passion.
 >1035 in total and counting.
 
-Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com)
+Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com).
 
 ## How to use
 ### Using CDN
@@ -15,7 +16,7 @@ Call the css on your `html` file using this address.
 ```link
 https://unpkg.com/neuicons/css/neu.css
 ```
-Calling icons
+Calling an icon
 ```html
 <i class="neu-activity"></i>
 ```
@@ -71,6 +72,9 @@ Categories:
 - Transportation `25 icons`
 - Users `35 icons` 
 - Weather `50 icons`
+
+## Request icons
+Need an icon but you don't see it? Feel free to request it [here](https://bit.ly/requesticons).
 
 ## License
 Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
