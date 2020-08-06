@@ -43,6 +43,8 @@ Or try this template below.
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
 
+Also, you can see the the full icons preview [here](https://github.com/neuicons/css-icons/tree/master/src/preview). Separated each category.
+
 Categories:
 - Accessibility `15 icons`
 - Animal `25 icons`
