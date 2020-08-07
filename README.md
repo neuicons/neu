@@ -43,6 +43,7 @@ Or playaround with this [codepen](https://codepen.io/pen/?template=eYZmZNB) temp
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
+Download the SVG files [here](https://github.com/neuicons/neu/tree/master/src/icons)
 
 Also, you can see the the full icons preview [here](https://github.com/neuicons/css-icons/tree/master/src/preview). Separated each category.
 
