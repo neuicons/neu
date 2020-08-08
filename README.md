@@ -1,4 +1,4 @@
-<a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
+<a href="https://github.com/neuicons/icons/blob/master/LICENSE" rel="nofollow"><img src="https://img.shields.io/badge/license-MIT-lightgrey"></a>  <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/dm/neuicons"></a>  [![](https://data.jsdelivr.com/v1/package/npm/neuicons/badge)](https://www.jsdelivr.com/package/npm/neuicons) <a href="https://www.npmjs.com/package/neuicons"><img src="https://img.shields.io/npm/v/neuicons"></a>  <a href="https://ko-fi.com/roywj" rel="nofollow"><img src="https://img.shields.io/badge/support%20me%20on-ko--fi-red" style="max-width:100%;"></a>
 
 ![cover](https://github.com/neuicons/css-icons/blob/master/src/cover/README%20cover.png)
 
@@ -12,19 +12,27 @@ Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@l
 
 ## How to use
 
-### Install
-NPM install
-```node
-npm i neuicons --save
-```
+#### Basic usage
+>If you understand basic knowledge how NPM and CDN works, you can skip this guide.
 
+You can get the the single SVG or PNG file directly on the [neuicons.com](https://neuicons.com) or if you want to get all of the files including all of the SVG icons, CSS, webfont, etc. Simply download the latest package [here](https://github.com/neuicons/neu/releases).
 
-### Using CDN
+#### Using CDN
+
 Call the css on your `html` file using this address.
 ```link
 https://cdn.jsdelivr.net/npm/neuicons/css/neu.min.css
 ```
-Calling an icon
+
+#### NPM install
+> You can skip this step if you want to use the CSS file using the CDN
+
+```node
+npm i neuicons --save
+```
+
+## Calling an icon
+
 ```html
 <i class="neu-activity"></i>
 ```
@@ -47,7 +55,7 @@ HTML doc example.
 
 </html>
 ```
-Or playaround with this [codepen](https://codepen.io/pen/?template=eYZmZNB) template.
+Or play around with this [codepen](https://codepen.io/pen/?template=eYZmZNB) template.
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
