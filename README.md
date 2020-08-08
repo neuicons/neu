@@ -17,9 +17,11 @@ Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@l
 
 You can get the the single SVG or PNG file directly on the [neuicons.com](https://neuicons.com) or if you want to get all of the files including all of the SVG icons, CSS, webfont, etc. Simply download the latest package [here](https://github.com/neuicons/neu/releases).
 
+The SVG files are on the way to be completed there, will update it once it's done.
+
 #### Using CDN
 
-Call the css on your `html` file using this address.
+Call the CSS on your `html` file using this address.
 ```link
 https://cdn.jsdelivr.net/npm/neuicons/css/neu.min.css
 ```
@@ -97,7 +99,7 @@ Categories:
 Need an icon but you don't see it? Feel free to request it [here](https://bit.ly/requesticons).
 
 ## License
-Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE)
+Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE).
 
 ## Credit
 Neu logo is created by [Royyan Wijaya](https://dribbble.com/roywj) and revamped by [Aldo Picaso](https://www.pexels.com/@aldoalz)
