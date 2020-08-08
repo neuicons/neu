@@ -11,10 +11,18 @@ Created with a simple basic object, combine it with other shapes, and finish it 
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com).
 
 ## How to use
+
+### Install
+NPM install
+```node
+npm i neuicons --save
+```
+
+
 ### Using CDN
 Call the css on your `html` file using this address.
 ```link
-https://unpkg.com/neuicons/css/neu.css
+https://cdn.jsdelivr.net/npm/neuicons/css/neu.min.css
 ```
 Calling an icon
 ```html
@@ -30,7 +38,7 @@ HTML doc example.
 
   <title>Neu Test</title>
   
-  <link rel="stylesheet" type="text/css" href="https://unpkg.com/neuicons/css/neu.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/neuicons/css/neu.min.css">
 
   <body>
     <!-- example icon -->
@@ -45,7 +53,7 @@ Or playaround with this [codepen](https://codepen.io/pen/?template=eYZmZNB) temp
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
 Download the SVG files [here](https://github.com/neuicons/neu/tree/master/src/icons)
 
-Also, you can see the the full icons preview [here](https://github.com/neuicons/css-icons/tree/master/src/preview). Separated each category.
+Also, you can see the the full icons preview [here](https://github.com/neuicons/neu/tree/master/src/preview). Separated each category.
 
 Categories:
 - Accessibility `15 icons`
