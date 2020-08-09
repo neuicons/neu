@@ -19,6 +19,9 @@ You can get the the single SVG or PNG file directly on the [neuicons.com](https:
 
 The SVG files are on the way to be completed there, will update it once it's done.
 
+#### Figma
+Neu icons is now available on [Figma](https://www.figma.com/community/file/874331540254982306/Neu-Icons) as a component library.
+
 #### Using CDN
 
 Call the CSS on your `html` file using this address.
