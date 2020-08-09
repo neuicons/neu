@@ -26,7 +26,7 @@ Neu icons is now available on [Figma](https://www.figma.com/community/file/87433
 
 Call the CSS on your `html` file using this address.
 ```link
-https://cdn.jsdelivr.net/npm/neuicons/css/neu.min.css
+https://cdn.jsdelivr.net/npm/neuicons@1.5.0/css/neu.min.css
 ```
 
 #### NPM install
@@ -51,7 +51,7 @@ HTML doc example.
 
   <title>Neu Test</title>
   
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/neuicons/css/neu.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/neuicons@1.5.0/css/neu.min.css">
 
   <body>
     <!-- example icon -->
