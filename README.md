@@ -17,8 +17,6 @@ Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@l
 
 You can get the the single SVG or PNG file directly on the [neuicons.com](https://neuicons.com) or if you want to get all of the files including all of the SVG icons, CSS, webfont, etc. Simply download the latest package [here](https://github.com/neuicons/neu/releases).
 
-The SVG files are on the way to be completed there, will update it once it's done.
-
 #### Figma
 Neu icons is now available on [Figma](https://www.figma.com/community/file/874331540254982306/Neu-Icons) as a component library.
 
