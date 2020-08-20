@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'neuicons';
-  src: url('../font/neuicons.eot?59611152');
-  src: url('../font/neuicons.eot?59611152#iefix') format('embedded-opentype'),
-       url('../font/neuicons.woff2?59611152') format('woff2'),
-       url('../font/neuicons.woff?59611152') format('woff'),
-       url('../font/neuicons.ttf?59611152') format('truetype'),
-       url('../font/neuicons.svg?59611152#neuicons') format('svg');
+  src: url('../font/neuicons.eot?65644598');
+  src: url('../font/neuicons.eot?65644598#iefix') format('embedded-opentype'),
+       url('../font/neuicons.woff2?65644598') format('woff2'),
+       url('../font/neuicons.woff?65644598') format('woff'),
+       url('../font/neuicons.ttf?65644598') format('truetype'),
+       url('../font/neuicons.svg?65644598#neuicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'neuicons';
-    src: url('../font/neuicons.svg?59611152#neuicons') format('svg');
+    src: url('../font/neuicons.svg?65644598#neuicons') format('svg');
   }
 }
 */
@@ -55,6 +55,32 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
+.neu-so-couple:before { content: '\21'; } /* '!' */
+.neu-so-blind-eyes:before { content: '\22'; } /* '&quot;' */
+.neu-so-accessibility:before { content: '\23'; } /* '#' */
+.neu-so-enter-people:before { content: '\24'; } /* '$' */
+.neu-so-escalator-down:before { content: '\25'; } /* '%' */
+.neu-so-escalator-up:before { content: '\26'; } /* '&amp;' */
+.neu-so-eye-plus:before { content: '\27'; } /* ''' */
+.neu-so-walk:before { content: '\28'; } /* '(' */
+.neu-so-apartment:before { content: '\29'; } /* ')' */
+.neu-so-building:before { content: '\2a'; } /* '*' */
+.neu-so-cabin-house:before { content: '\2b'; } /* '+' */
+.neu-so-church:before { content: '\2c'; } /* ',' */
+.neu-so-city:before { content: '\2d'; } /* '-' */
+.neu-so-company:before { content: '\2e'; } /* '.' */
+.neu-so-factory:before { content: '\2f'; } /* '/' */
+.neu-so-landmark:before { content: '\30'; } /* '0' */
+.neu-so-monument:before { content: '\31'; } /* '1' */
+.neu-so-mosque:before { content: '\32'; } /* '2' */
+.neu-so-mosque-2:before { content: '\33'; } /* '3' */
+.neu-so-office:before { content: '\34'; } /* '4' */
+.neu-so-park:before { content: '\35'; } /* '5' */
+.neu-so-police-station:before { content: '\36'; } /* '6' */
+.neu-so-real-estate:before { content: '\37'; } /* '7' */
+.neu-so-skyscrapers:before { content: '\38'; } /* '8' */
+.neu-so-temple:before { content: '\39'; } /* '9' */
+.neu-so-torii-gate:before { content: '\3a'; } /* ':' */
 .neu-blind-eyes:before { content: '\e800'; } /* '' */
 .neu-disability:before { content: '\e801'; } /* '' */
 .neu-enter-people:before { content: '\e802'; } /* '' */
