@@ -11,52 +11,7 @@ Created with a simple basic object, combine it with other shapes, and finish it 
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com).
 
 ## How to use
-
-#### Basic usage
->If you understand basic knowledge how NPM and CDN works, you can skip this guide.
-
-You can get the the single SVG or PNG file directly on the [neuicons.com](https://neuicons.com) or if you want to get all of the files including all of the SVG icons, CSS, webfont, etc. Simply download the latest package [here](https://github.com/neuicons/neu/releases).
-
-#### Figma
-Neu icons is now available on [Figma](https://www.figma.com/community/file/874331540254982306/Neu-Icons) as a component library.
-
-#### Using CDN
-
-Call the CSS on your `html` file using this address.
-```link
-https://cdn.jsdelivr.net/npm/neuicons@1.5.5/css/neu.min.css
-```
-
-#### NPM install
-> You can skip this step if you want to use the CSS file using the CDN
-
-```node
-npm i neuicons --save
-```
-
-```html
-<i class="neu-activity"></i>
-```
-You can change the `activity` with other icons name. See icons section to get to know the detail about all of the icons credential.
-
-HTML doc example.
-```html
-<!DOCTYPE html>
-
-<html lang="en">
-
-  <title>Neu Test</title>
-  
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/neuicons@1.5.5/css/neu.min.css">
-
-  <body>
-    <!-- example icon -->
-    <i class="neu-squid" style="font-size: 24px;"></i> 
-  </body>
-
-</html>
-```
-Or play around with this [codepen](https://codepen.io/pen/?template=eYZmZNB) template.
+Simply visit the [Wiki](https://github.com/neuicons/neu/wiki) for more detailed information about it.
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
