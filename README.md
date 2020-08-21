@@ -6,7 +6,7 @@
 Neu is a free crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. 
 
 Created with a simple basic object, combine it with other shapes, and finish it with passion.
->1061 in total and counting.
+>1100 in total and counting.
 
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com).
 
@@ -24,7 +24,7 @@ Neu icons is now available on [Figma](https://www.figma.com/community/file/87433
 
 Call the CSS on your `html` file using this address.
 ```link
-https://cdn.jsdelivr.net/npm/neuicons@1.5.3/css/neu.min.css
+https://cdn.jsdelivr.net/npm/neuicons@1.5.5/css/neu.min.css
 ```
 
 #### NPM install
@@ -33,8 +33,6 @@ https://cdn.jsdelivr.net/npm/neuicons@1.5.3/css/neu.min.css
 ```node
 npm i neuicons --save
 ```
-
-## Calling an icon
 
 ```html
 <i class="neu-activity"></i>
@@ -49,7 +47,7 @@ HTML doc example.
 
   <title>Neu Test</title>
   
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/neuicons@1.5.3/css/neu.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/neuicons@1.5.5/css/neu.min.css">
 
   <body>
     <!-- example icon -->
@@ -72,7 +70,7 @@ Categories:
 - Arrow `30 icons`
 - Building `38 icons`
 - Business and Finance `50 icons`
-- Design `50 icons`
+- Design `89 icons`
 - Development `30 icons`
 - Ecommerce `25 icons`
 - Emoji `20 icons` 

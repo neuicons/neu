@@ -1,11 +1,11 @@
 @font-face {
-  font-family: 'neuicons';
-  src: url('../font/neuicons.eot?65644598');
-  src: url('../font/neuicons.eot?65644598#iefix') format('embedded-opentype'),
-       url('../font/neuicons.woff2?65644598') format('woff2'),
-       url('../font/neuicons.woff?65644598') format('woff'),
-       url('../font/neuicons.ttf?65644598') format('truetype'),
-       url('../font/neuicons.svg?65644598#neuicons') format('svg');
+  font-family: 'neu';
+  src: url('../font/neu.eot?75688699');
+  src: url('../font/neu.eot?75688699#iefix') format('embedded-opentype'),
+       url('../font/neu.woff2?75688699') format('woff2'),
+       url('../font/neu.woff?75688699') format('woff'),
+       url('../font/neu.ttf?75688699') format('truetype'),
+       url('../font/neu.svg?75688699#neu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,14 +14,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'neuicons';
-    src: url('../font/neuicons.svg?65644598#neuicons') format('svg');
+    font-family: 'neu';
+    src: url('../font/neu.svg?75688699#neu') format('svg');
   }
 }
 */
  
  [class^="neu-"]:before, [class*=" neu-"]:before {
-  font-family: "neuicons";
+  font-family: "neu";
   font-style: normal;
   font-weight: normal;
   speak: never;
@@ -81,6 +81,45 @@
 .neu-so-skyscrapers:before { content: '\38'; } /* '8' */
 .neu-so-temple:before { content: '\39'; } /* '9' */
 .neu-so-torii-gate:before { content: '\3a'; } /* ':' */
+.neu-so-brush:before { content: '\3b'; } /* ';' */
+.neu-so-cube:before { content: '\3c'; } /* '&lt;' */
+.neu-so-divide:before { content: '\3d'; } /* '=' */
+.neu-so-eclipse-1:before { content: '\3e'; } /* '&gt;' */
+.neu-so-eyedropper-tool:before { content: '\3f'; } /* '?' */
+.neu-so-file-structure:before { content: '\40'; } /* '@' */
+.neu-so-folder-structure:before { content: '\41'; } /* 'A' */
+.neu-so-h-align-center:before { content: '\42'; } /* 'B' */
+.neu-so-h-align-left:before { content: '\43'; } /* 'C' */
+.neu-so-h-align-right:before { content: '\44'; } /* 'D' */
+.neu-so-hue-saturation:before { content: '\45'; } /* 'E' */
+.neu-so-img:before { content: '\46'; } /* 'F' */
+.neu-so-intersect:before { content: '\47'; } /* 'G' */
+.neu-so-magic-wand:before { content: '\48'; } /* 'H' */
+.neu-so-magnet:before { content: '\49'; } /* 'I' */
+.neu-so-mathematical-anchor:before { content: '\4a'; } /* 'J' */
+.neu-so-mesh-fill:before { content: '\4b'; } /* 'K' */
+.neu-so-palette:before { content: '\4c'; } /* 'L' */
+.neu-so-pencil:before { content: '\4d'; } /* 'M' */
+.neu-so-pen-tool:before { content: '\4e'; } /* 'N' */
+.neu-so-picture:before { content: '\4f'; } /* 'O' */
+.neu-so-polygon:before { content: '\50'; } /* 'P' */
+.neu-so-prism:before { content: '\51'; } /* 'Q' */
+.neu-so-rectangle:before { content: '\52'; } /* 'R' */
+.neu-so-rounded-rectangle:before { content: '\53'; } /* 'S' */
+.neu-so-ruler:before { content: '\54'; } /* 'T' */
+.neu-so-ruler-pencil:before { content: '\55'; } /* 'U' */
+.neu-so-structure:before { content: '\56'; } /* 'V' */
+.neu-so-transform:before { content: '\57'; } /* 'W' */
+.neu-so-triangle:before { content: '\58'; } /* 'X' */
+.neu-so-trim:before { content: '\59'; } /* 'Y' */
+.neu-so-tube:before { content: '\5a'; } /* 'Z' */
+.neu-so-unite:before { content: '\5b'; } /* '[' */
+.neu-so-v-align-bottom:before { content: '\5c'; } /* '\' */
+.neu-so-minus-front:before { content: '\5d'; } /* ']' */
+.neu-so-new-artboard:before { content: '\5e'; } /* '^' */
+.neu-so-paint-brush:before { content: '\5f'; } /* '_' */
+.neu-so-v-align-center:before { content: '\60'; } /* '`' */
+.neu-so-v-align-top:before { content: '\61'; } /* 'a' */
 .neu-blind-eyes:before { content: '\e800'; } /* '' */
 .neu-disability:before { content: '\e801'; } /* '' */
 .neu-enter-people:before { content: '\e802'; } /* '' */
