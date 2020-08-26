@@ -6,7 +6,7 @@
 Neu is a free crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. 
 
 Created with a simple basic object, combine it with other shapes, and finish it with passion.
->1184 in total and counting.
+>1189 in total and counting.
 
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com).
 
@@ -15,7 +15,6 @@ Simply visit the [Wiki](https://github.com/neuicons/neu/wiki) for more detailed 
 
 ## Icons
 You can see the complete `code` list at [neuicons.com](https://neuicons.com).
-Download the SVG files [here](https://github.com/neuicons/neu/tree/master/src/icons)
 
 Also, you can see the the full icons preview [here](https://github.com/neuicons/neu/tree/master/src/preview). Separated each category.
 
@@ -23,7 +22,7 @@ Categories:
 - Accessibility `23 icons`
 - Animal `25 icons`
 - Arrow `30 icons`
-- Brand `26 icons`
+- Brand `31 icons`
 - Building `38 icons`
 - Business and Finance `90 icons`
 - Design `89 icons`
