@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'neu';
-  src: url('../font/neu.eot?97531841');
-  src: url('../font/neu.eot?97531841#iefix') format('embedded-opentype'),
-       url('../font/neu.woff2?97531841') format('woff2'),
-       url('../font/neu.woff?97531841') format('woff'),
-       url('../font/neu.ttf?97531841') format('truetype'),
-       url('../font/neu.svg?97531841#neu') format('svg');
+  src: url('../font/neu.eot?64623284');
+  src: url('../font/neu.eot?64623284#iefix') format('embedded-opentype'),
+       url('../font/neu.woff2?64623284') format('woff2'),
+       url('../font/neu.woff?64623284') format('woff'),
+       url('../font/neu.ttf?64623284') format('truetype'),
+       url('../font/neu.svg?64623284#neu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'neu';
-    src: url('../font/neu.svg?97531841#neu') format('svg');
+    src: url('../font/neu.svg?64623284#neu') format('svg');
   }
 }
 */
@@ -1239,3 +1239,8 @@
 .neu-br-tiktok-sq:before { content: '\ec3f'; } /* '' */
 .neu-br-twitter:before { content: '\ec40'; } /* '' */
 .neu-br-twitter-sq:before { content: '\ec41'; } /* '' */
+.neu-br-rss:before { content: '\ec42'; } /* '' */
+.neu-br-rss-sq:before { content: '\ec43'; } /* '' */
+.neu-br-youtube:before { content: '\ec44'; } /* '' */
+.neu-br-github:before { content: '\ec45'; } /* '' */
+.neu-br-product-hunt:before { content: '\ec46'; } /* '' */

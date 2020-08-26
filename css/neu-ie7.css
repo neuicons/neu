@@ -1194,3 +1194,8 @@
 .neu-br-tiktok-sq { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec3f;&nbsp;'); }
 .neu-br-twitter { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec40;&nbsp;'); }
 .neu-br-twitter-sq { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec41;&nbsp;'); }
+.neu-br-rss { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec42;&nbsp;'); }
+.neu-br-rss-sq { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec43;&nbsp;'); }
+.neu-br-youtube { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec44;&nbsp;'); }
+.neu-br-github { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec45;&nbsp;'); }
+.neu-br-product-hunt { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xec46;&nbsp;'); }

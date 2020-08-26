@@ -1183,3 +1183,8 @@
 .neu-br-tiktok-sq:before { content: '\ec3f'; } /* '' */
 .neu-br-twitter:before { content: '\ec40'; } /* '' */
 .neu-br-twitter-sq:before { content: '\ec41'; } /* '' */
+.neu-br-rss:before { content: '\ec42'; } /* '' */
+.neu-br-rss-sq:before { content: '\ec43'; } /* '' */
+.neu-br-youtube:before { content: '\ec44'; } /* '' */
+.neu-br-github:before { content: '\ec45'; } /* '' */
+.neu-br-product-hunt:before { content: '\ec46'; } /* '' */
