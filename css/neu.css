@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'neu';
-  src: url('../font/neu.eot?64623284');
-  src: url('../font/neu.eot?64623284#iefix') format('embedded-opentype'),
-       url('../font/neu.woff2?64623284') format('woff2'),
-       url('../font/neu.woff?64623284') format('woff'),
-       url('../font/neu.ttf?64623284') format('truetype'),
-       url('../font/neu.svg?64623284#neu') format('svg');
+  src: url('../font/neu.eot?60966386');
+  src: url('../font/neu.eot?60966386#iefix') format('embedded-opentype'),
+       url('../font/neu.woff2?60966386') format('woff2'),
+       url('../font/neu.woff?60966386') format('woff'),
+       url('../font/neu.ttf?60966386') format('truetype'),
+       url('../font/neu.svg?60966386#neu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'neu';
-    src: url('../font/neu.svg?64623284#neu') format('svg');
+    src: url('../font/neu.svg?60966386#neu') format('svg');
   }
 }
 */
@@ -1244,3 +1244,87 @@
 .neu-br-youtube:before { content: '\ec44'; } /* '' */
 .neu-br-github:before { content: '\ec45'; } /* '' */
 .neu-br-product-hunt:before { content: '\ec46'; } /* '' */
+.neu-so-add-file:before { content: '\ec47'; } /* '' */
+.neu-so-add-folder:before { content: '\ec48'; } /* '' */
+.neu-so-alert-file:before { content: '\ec49'; } /* '' */
+.neu-so-blank-note:before { content: '\ec4a'; } /* '' */
+.neu-so-bookmark-book:before { content: '\ec4b'; } /* '' */
+.neu-so-book-open-2:before { content: '\ec4c'; } /* '' */
+.neu-so-delete-file:before { content: '\ec4d'; } /* '' */
+.neu-so-delete-folder:before { content: '\ec4e'; } /* '' */
+.neu-so-documents:before { content: '\ec4f'; } /* '' */
+.neu-so-drawer-office:before { content: '\ec50'; } /* '' */
+.neu-so-faq-file:before { content: '\ec51'; } /* '' */
+.neu-so-file:before { content: '\ec52'; } /* '' */
+.neu-so-file-down:before { content: '\ec53'; } /* '' */
+.neu-so-file-tick:before { content: '\ec54'; } /* '' */
+.neu-so-file-up:before { content: '\ec55'; } /* '' */
+.neu-so-folder-2:before { content: '\ec56'; } /* '' */
+.neu-so-folder-tick:before { content: '\ec57'; } /* '' */
+.neu-so-inbox:before { content: '\ec58'; } /* '' */
+.neu-so-add-price:before { content: '\ec59'; } /* '' */
+.neu-so-balance:before { content: '\ec5a'; } /* '' */
+.neu-so-barcode:before { content: '\ec5b'; } /* '' */
+.neu-so-credit-card:before { content: '\ec5c'; } /* '' */
+.neu-so-credit-card-2:before { content: '\ec5d'; } /* '' */
+.neu-so-cvv:before { content: '\ec5e'; } /* '' */
+.neu-so-delete-price:before { content: '\ec5f'; } /* '' */
+.neu-so-grocery-bag:before { content: '\ec60'; } /* '' */
+.neu-so-invoice-paper:before { content: '\ec61'; } /* '' */
+.neu-so-woman-bag:before { content: '\ec62'; } /* '' */
+.neu-so-basketball-jersey:before { content: '\ec63'; } /* '' */
+.neu-so-bikini:before { content: '\ec64'; } /* '' */
+.neu-so-boots:before { content: '\ec65'; } /* '' */
+.neu-so-bowties:before { content: '\ec66'; } /* '' */
+.neu-so-bra:before { content: '\ec67'; } /* '' */
+.neu-so-braidshirt:before { content: '\ec68'; } /* '' */
+.neu-so-diamond-jewel:before { content: '\ec69'; } /* '' */
+.neu-so-glasses:before { content: '\ec6a'; } /* '' */
+.neu-so-skullcaps:before { content: '\ec6b'; } /* '' */
+.neu-so-slipper:before { content: '\ec6c'; } /* '' */
+.neu-so-sneakers:before { content: '\ec6d'; } /* '' */
+.neu-so-socks:before { content: '\ec6e'; } /* '' */
+.neu-so-tie:before { content: '\ec6f'; } /* '' */
+.neu-so-tshirt:before { content: '\ec70'; } /* '' */
+.neu-so-t-shirt:before { content: '\ec71'; } /* '' */
+.neu-so-tuxedo-fashion:before { content: '\ec72'; } /* '' */
+.neu-so-tuxedo-fashion-2:before { content: '\ec73'; } /* '' */
+.neu-so-inbox-full:before { content: '\ec74'; } /* '' */
+.neu-so-media-file:before { content: '\ec75'; } /* '' */
+.neu-so-note:before { content: '\ec76'; } /* '' */
+.neu-so-remove-file:before { content: '\ec77'; } /* '' */
+.neu-so-remove-folder:before { content: '\ec78'; } /* '' */
+.neu-so-package:before { content: '\ec8a'; } /* '' */
+.neu-so-price-tag:before { content: '\ec8b'; } /* '' */
+.neu-so-price-tag-rotate:before { content: '\ec8c'; } /* '' */
+.neu-so-remove-price:before { content: '\ec8d'; } /* '' */
+.neu-so-shipping-box:before { content: '\ec8e'; } /* '' */
+.neu-so-shipping-car:before { content: '\ec8f'; } /* '' */
+.neu-so-shopping:before { content: '\ec90'; } /* '' */
+.neu-so-store-sign:before { content: '\ec91'; } /* '' */
+.neu-so-ticket:before { content: '\ec92'; } /* '' */
+.neu-so-top-up-balance:before { content: '\ec93'; } /* '' */
+.neu-so-wallet-coin:before { content: '\ec94'; } /* '' */
+.neu-so-high-heels:before { content: '\ec95'; } /* '' */
+.neu-so-iron:before { content: '\ec96'; } /* '' */
+.neu-so-lipstick:before { content: '\ec97'; } /* '' */
+.neu-so-loafers:before { content: '\ec98'; } /* '' */
+.neu-so-make-up:before { content: '\ec99'; } /* '' */
+.neu-so-necklace:before { content: '\ec9a'; } /* '' */
+.neu-so-no-iron:before { content: '\ec9b'; } /* '' */
+.neu-so-pants:before { content: '\ec9c'; } /* '' */
+.neu-so-ring:before { content: '\ec9d'; } /* '' */
+.neu-so-sandals:before { content: '\ec9e'; } /* '' */
+.neu-so-short-pants:before { content: '\ec9f'; } /* '' */
+.neu-so-tuxedo-fashion-3:before { content: '\eca0'; } /* '' */
+.neu-so-tuxedo-formal:before { content: '\eca1'; } /* '' */
+.neu-so-tuxedo-vallet:before { content: '\eca2'; } /* '' */
+.neu-so-underwear:before { content: '\eca3'; } /* '' */
+.neu-so-underwear-2:before { content: '\eca4'; } /* '' */
+.neu-so-unique-glasses:before { content: '\eca5'; } /* '' */
+.neu-so-vest:before { content: '\eca6'; } /* '' */
+.neu-so-watch:before { content: '\eca7'; } /* '' */
+.neu-so-wedding-dress:before { content: '\eca8'; } /* '' */
+.neu-so-woman-bag-2:before { content: '\eca9'; } /* '' */
+.neu-so-woman-bag-3:before { content: '\ecaa'; } /* '' */
+.neu-so-woman-boot:before { content: '\ecab'; } /* '' */

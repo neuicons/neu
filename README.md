@@ -6,7 +6,7 @@
 Neu is a free crisp cohesive growing icon set library that provides wide range categories. Based on 24px grid, it will match with any of your app, website, design project. 
 
 Created with a simple basic object, combine it with other shapes, and finish it with passion.
->1189 in total and counting.
+>1273 in total and counting.
 
 Have a feedback or issue about it? Feel free to [email me](mailto:royyanwijaya@live.com).
 
@@ -27,10 +27,10 @@ Categories:
 - Business and Finance `90 icons`
 - Design `89 icons`
 - Development `48 icons`
-- Ecommerce `25 icons`
+- Ecommerce `46 icons`
 - Emoji `20 icons` 
-- Fashion `45 icons`
-- File `25 icons`
+- Fashion `85 icons`
+- File `48 icons`
 - Food `30 icons`
 - Furniture `25 icons`
 - Game `25 icons`
