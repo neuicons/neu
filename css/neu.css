@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'neu';
-  src: url('../font/neu.eot?22072187');
-  src: url('../font/neu.eot?22072187#iefix') format('embedded-opentype'),
-       url('../font/neu.woff2?22072187') format('woff2'),
-       url('../font/neu.woff?22072187') format('woff'),
-       url('../font/neu.ttf?22072187') format('truetype'),
-       url('../font/neu.svg?22072187#neu') format('svg');
+  src: url('../font/neu.eot?20825345');
+  src: url('../font/neu.eot?20825345#iefix') format('embedded-opentype'),
+       url('../font/neu.woff2?20825345') format('woff2'),
+       url('../font/neu.woff?20825345') format('woff'),
+       url('../font/neu.ttf?20825345') format('truetype'),
+       url('../font/neu.svg?20825345#neu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'neu';
-    src: url('../font/neu.svg?22072187#neu') format('svg');
+    src: url('../font/neu.svg?20825345#neu') format('svg');
   }
 }
 */
