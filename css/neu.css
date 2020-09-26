@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'neu';
-  src: url('../font/neu.eot?20825345');
-  src: url('../font/neu.eot?20825345#iefix') format('embedded-opentype'),
-       url('../font/neu.woff2?20825345') format('woff2'),
-       url('../font/neu.woff?20825345') format('woff'),
-       url('../font/neu.ttf?20825345') format('truetype'),
-       url('../font/neu.svg?20825345#neu') format('svg');
+  src: url('../font/neu.eot?94659339');
+  src: url('../font/neu.eot?94659339#iefix') format('embedded-opentype'),
+       url('../font/neu.woff2?94659339') format('woff2'),
+       url('../font/neu.woff?94659339') format('woff'),
+       url('../font/neu.ttf?94659339') format('truetype'),
+       url('../font/neu.svg?94659339#neu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'neu';
-    src: url('../font/neu.svg?20825345#neu') format('svg');
+    src: url('../font/neu.svg?94659339#neu') format('svg');
   }
 }
 */
@@ -1403,3 +1403,40 @@
 .neu-so-soul:before { content: '\ece3'; } /* '' */
 .neu-so-sword:before { content: '\ece4'; } /* '' */
 .neu-so-tetris:before { content: '\ece5'; } /* '' */
+.neu-so-direction:before { content: '\ece6'; } /* '' */
+.neu-so-hold:before { content: '\ece7'; } /* '' */
+.neu-so-password-pattern:before { content: '\ece8'; } /* '' */
+.neu-so-swipe-left-hand:before { content: '\ece9'; } /* '' */
+.neu-so-swipe-left-three-fingers:before { content: '\ecea'; } /* '' */
+.neu-so-swipe-left-two-fingers:before { content: '\eceb'; } /* '' */
+.neu-so-swipe-right-hand:before { content: '\ecec'; } /* '' */
+.neu-so-swipe-right-three-fingers:before { content: '\eced'; } /* '' */
+.neu-so-swipe-right-two-fingers:before { content: '\ecee'; } /* '' */
+.neu-so-tap:before { content: '\ecef'; } /* '' */
+.neu-so-touch:before { content: '\ecf0'; } /* '' */
+.neu-so-touch-2:before { content: '\ecf1'; } /* '' */
+.neu-so-balloon:before { content: '\ecf2'; } /* '' */
+.neu-so-candle:before { content: '\ecf3'; } /* '' */
+.neu-so-christmas-lamp:before { content: '\ecf4'; } /* '' */
+.neu-so-christmas-tree:before { content: '\ecf5'; } /* '' */
+.neu-so-coffin:before { content: '\ecf6'; } /* '' */
+.neu-so-decoration:before { content: '\ecf7'; } /* '' */
+.neu-so-dog-bone:before { content: '\ecf8'; } /* '' */
+.neu-so-easter-egg:before { content: '\ecf9'; } /* '' */
+.neu-so-easter-egg-2:before { content: '\ecfa'; } /* '' */
+.neu-so-easter-egg-3:before { content: '\ecfb'; } /* '' */
+.neu-so-easter-egg-4:before { content: '\ecfc'; } /* '' */
+.neu-so-easter-egg-5:before { content: '\ecfd'; } /* '' */
+.neu-so-fox:before { content: '\ecfe'; } /* '' */
+.neu-so-glass:before { content: '\ecff'; } /* '' */
+.neu-so-glove:before { content: '\ed00'; } /* '' */
+.neu-so-grave:before { content: '\ed01'; } /* '' */
+.neu-so-present:before { content: '\ed02'; } /* '' */
+.neu-so-travel-bag:before { content: '\ed03'; } /* '' */
+.neu-so-umbrella-holiday:before { content: '\ed04'; } /* '' */
+.neu-so-volleyball:before { content: '\ed05'; } /* '' */
+.neu-so-witch:before { content: '\ed06'; } /* '' */
+.neu-so-zombie:before { content: '\ed07'; } /* '' */
+.neu-so-pumpkin:before { content: '\ed08'; } /* '' */
+.neu-so-socks-winter:before { content: '\ed09'; } /* '' */
+.neu-so-spider-insect:before { content: '\ed0a'; } /* '' */
