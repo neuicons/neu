@@ -36,7 +36,7 @@ Categories:
 - Game `48 icons`
 - Gesture `32 icons`
 - Holiday `55 icons`
-- Interface `200 icons`
+- Interface `323 icons`
 - Kitchen `30 icons`
 - Medical `35 icons`
 - Music `45 icons`

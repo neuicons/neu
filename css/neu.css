@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'neu';
-  src: url('../font/neu.eot?94659339');
-  src: url('../font/neu.eot?94659339#iefix') format('embedded-opentype'),
-       url('../font/neu.woff2?94659339') format('woff2'),
-       url('../font/neu.woff?94659339') format('woff'),
-       url('../font/neu.ttf?94659339') format('truetype'),
-       url('../font/neu.svg?94659339#neu') format('svg');
+  src: url('../font/neu.eot?9018335');
+  src: url('../font/neu.eot?9018335#iefix') format('embedded-opentype'),
+       url('../font/neu.woff2?9018335') format('woff2'),
+       url('../font/neu.woff?9018335') format('woff'),
+       url('../font/neu.ttf?9018335') format('truetype'),
+       url('../font/neu.svg?9018335#neu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'neu';
-    src: url('../font/neu.svg?94659339#neu') format('svg');
+    src: url('../font/neu.svg?9018335#neu') format('svg');
   }
 }
 */
@@ -1440,3 +1440,126 @@
 .neu-so-pumpkin:before { content: '\ed08'; } /* '' */
 .neu-so-socks-winter:before { content: '\ed09'; } /* '' */
 .neu-so-spider-insect:before { content: '\ed0a'; } /* '' */
+.neu-so-add-call:before { content: '\ed0b'; } /* '' */
+.neu-so-add-circle:before { content: '\ed0c'; } /* '' */
+.neu-so-add-to-cart:before { content: '\ed0d'; } /* '' */
+.neu-so-airplay:before { content: '\ed0e'; } /* '' */
+.neu-so-announcer:before { content: '\ed0f'; } /* '' */
+.neu-so-archive:before { content: '\ed10'; } /* '' */
+.neu-so-basket:before { content: '\ed11'; } /* '' */
+.neu-so-book:before { content: '\ed12'; } /* '' */
+.neu-so-bookmark:before { content: '\ed13'; } /* '' */
+.neu-so-book-open:before { content: '\ed14'; } /* '' */
+.neu-so-browse:before { content: '\ed15'; } /* '' */
+.neu-so-camera:before { content: '\ed16'; } /* '' */
+.neu-so-clock:before { content: '\ed17'; } /* '' */
+.neu-so-close-circle:before { content: '\ed18'; } /* '' */
+.neu-so-cloud-ui:before { content: '\ed19'; } /* '' */
+.neu-so-compass:before { content: '\ed1a'; } /* '' */
+.neu-so-copy:before { content: '\ed1b'; } /* '' */
+.neu-so-cursor:before { content: '\ed1c'; } /* '' */
+.neu-so-date:before { content: '\ed1d'; } /* '' */
+.neu-so-delete:before { content: '\ed1e'; } /* '' */
+.neu-so-document-ui:before { content: '\ed1f'; } /* '' */
+.neu-so-drop:before { content: '\ed20'; } /* '' */
+.neu-so-edit-ui:before { content: '\ed21'; } /* '' */
+.neu-so-email:before { content: '\ed22'; } /* '' */
+.neu-so-flag:before { content: '\ed23'; } /* '' */
+.neu-so-flag-2:before { content: '\ed24'; } /* '' */
+.neu-so-folder-ui:before { content: '\ed25'; } /* '' */
+.neu-so-gift:before { content: '\ed26'; } /* '' */
+.neu-so-gps:before { content: '\ed27'; } /* '' */
+.neu-so-home:before { content: '\ed28'; } /* '' */
+.neu-so-home-2:before { content: '\ed29'; } /* '' */
+.neu-so-home-3:before { content: '\ed2a'; } /* '' */
+.neu-so-home-4:before { content: '\ed2b'; } /* '' */
+.neu-so-home-5:before { content: '\ed2c'; } /* '' */
+.neu-so-image:before { content: '\ed2d'; } /* '' */
+.neu-so-info:before { content: '\ed2e'; } /* '' */
+.neu-so-like:before { content: '\ed2f'; } /* '' */
+.neu-so-lock-circle:before { content: '\ed30'; } /* '' */
+.neu-so-lock-square:before { content: '\ed31'; } /* '' */
+.neu-so-love:before { content: '\ed32'; } /* '' */
+.neu-so-mail:before { content: '\ed33'; } /* '' */
+.neu-so-mailbox:before { content: '\ed34'; } /* '' */
+.neu-so-map:before { content: '\ed35'; } /* '' */
+.neu-so-menu:before { content: '\ed36'; } /* '' */
+.neu-so-minus-circle:before { content: '\ed37'; } /* '' */
+.neu-so-mobile-signal:before { content: '\ed38'; } /* '' */
+.neu-so-notication-off:before { content: '\ed39'; } /* '' */
+.neu-so-notification-bell:before { content: '\ed3a'; } /* '' */
+.neu-so-pie-chart-ui:before { content: '\ed3b'; } /* '' */
+.neu-so-pin:before { content: '\ed3c'; } /* '' */
+.neu-so-pin-location:before { content: '\ed3d'; } /* '' */
+.neu-so-power:before { content: '\ed3e'; } /* '' */
+.neu-so-price-ui:before { content: '\ed3f'; } /* '' */
+.neu-so-printer:before { content: '\ed40'; } /* '' */
+.neu-so-remove-call:before { content: '\ed41'; } /* '' */
+.neu-so-resolution:before { content: '\ed42'; } /* '' */
+.neu-so-resolution-ui:before { content: '\ed43'; } /* '' */
+.neu-so-save:before { content: '\ed44'; } /* '' */
+.neu-so-scanner-female:before { content: '\ed45'; } /* '' */
+.neu-so-scanner-profile:before { content: '\ed46'; } /* '' */
+.neu-so-shopping-bag-ui:before { content: '\ed47'; } /* '' */
+.neu-so-shrink-content:before { content: '\ed48'; } /* '' */
+.neu-so-slider-h-lg:before { content: '\ed49'; } /* '' */
+.neu-so-slider-h-md:before { content: '\ed4a'; } /* '' */
+.neu-so-slider-v-lg:before { content: '\ed4b'; } /* '' */
+.neu-so-slider-v-md:before { content: '\ed4c'; } /* '' */
+.neu-so-snooze:before { content: '\ed4d'; } /* '' */
+.neu-so-speaker-ui:before { content: '\ed4e'; } /* '' */
+.neu-so-speedometer:before { content: '\ed4f'; } /* '' */
+.neu-so-stars:before { content: '\ed50'; } /* '' */
+.neu-so-stopwatch:before { content: '\ed51'; } /* '' */
+.neu-so-store:before { content: '\ed52'; } /* '' */
+.neu-so-writing:before { content: '\ed53'; } /* '' */
+.neu-so-zoom-in-2:before { content: '\ed54'; } /* '' */
+.neu-so-zoom-out-2:before { content: '\ed55'; } /* '' */
+.neu-so-cart:before { content: '\ed56'; } /* '' */
+.neu-so-cd:before { content: '\ed57'; } /* '' */
+.neu-so-chat-circle:before { content: '\ed58'; } /* '' */
+.neu-so-chat-circle-plain:before { content: '\ed59'; } /* '' */
+.neu-so-chat-square:before { content: '\ed5a'; } /* '' */
+.neu-so-chat-square-plain:before { content: '\ed5b'; } /* '' */
+.neu-so-chat-square-plain-2:before { content: '\ed5c'; } /* '' */
+.neu-so-checkmark:before { content: '\ed5d'; } /* '' */
+.neu-so-energy:before { content: '\ed5e'; } /* '' */
+.neu-so-expand-content:before { content: '\ed5f'; } /* '' */
+.neu-so-eye:before { content: '\ed60'; } /* '' */
+.neu-so-eye-off:before { content: '\ed61'; } /* '' */
+.neu-so-faq:before { content: '\ed62'; } /* '' */
+.neu-so-file-ui:before { content: '\ed63'; } /* '' */
+.neu-so-filter:before { content: '\ed64'; } /* '' */
+.neu-so-find:before { content: '\ed65'; } /* '' */
+.neu-so-information-triangle:before { content: '\ed66'; } /* '' */
+.neu-so-layer:before { content: '\ed67'; } /* '' */
+.neu-so-layout:before { content: '\ed68'; } /* '' */
+.neu-so-layout-2:before { content: '\ed69'; } /* '' */
+.neu-so-layout-3:before { content: '\ed6a'; } /* '' */
+.neu-so-layout-4:before { content: '\ed6b'; } /* '' */
+.neu-so-leaf-ui:before { content: '\ed6c'; } /* '' */
+.neu-so-leaf-ui-2:before { content: '\ed6d'; } /* '' */
+.neu-so-notification-on:before { content: '\ed6e'; } /* '' */
+.neu-so-paste:before { content: '\ed6f'; } /* '' */
+.neu-so-path:before { content: '\ed70'; } /* '' */
+.neu-so-pencil-ui:before { content: '\ed71'; } /* '' */
+.neu-so-pencil-ui-2:before { content: '\ed72'; } /* '' */
+.neu-so-pencil-ui-3:before { content: '\ed73'; } /* '' */
+.neu-so-pencil-ui-circle:before { content: '\ed74'; } /* '' */
+.neu-so-phone:before { content: '\ed75'; } /* '' */
+.neu-so-server:before { content: '\ed76'; } /* '' */
+.neu-so-share:before { content: '\ed77'; } /* '' */
+.neu-so-alarm:before { content: '\ed78'; } /* '' */
+.neu-so-loading-2:before { content: '\ed79'; } /* '' */
+.neu-so-calling:before { content: '\ed7a'; } /* '' */
+.neu-so-settings-ui:before { content: '\ed7b'; } /* '' */
+.neu-so-lifebuoy:before { content: '\ed7c'; } /* '' */
+.neu-so-brightness:before { content: '\ed7d'; } /* '' */
+.neu-so-tick-circle:before { content: '\ed7e'; } /* '' */
+.neu-so-time-sand:before { content: '\ed7f'; } /* '' */
+.neu-so-toggle:before { content: '\ed80'; } /* '' */
+.neu-so-trash:before { content: '\ed81'; } /* '' */
+.neu-so-trash-bin:before { content: '\ed82'; } /* '' */
+.neu-so-unlock-circle:before { content: '\ed83'; } /* '' */
+.neu-so-unlock-square:before { content: '\ed84'; } /* '' */
+.neu-so-warning-circle:before { content: '\ed85'; } /* '' */
