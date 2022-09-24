@@ -49,9 +49,6 @@ Categories:
 - Users `35 icons` 
 - Weather `50 icons`
 
-## Request icons
-Need an icon but you don't see it? Feel free to request it [here](https://bit.ly/requesticons).
-
 ## License
 Neu icons is available under the [MIT License](https://github.com/neuicons/icons/blob/master/LICENSE).
 
